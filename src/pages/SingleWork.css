@@ -1,0 +1,24 @@
+.singleContainer{
+  padding-top: 160px;
+  display: grid;
+  grid-template-columns:  minmax(400px,550px) minmax(600px,900px);
+  gap: 50px;
+  margin-left: 60px;
+  margin-right: 60px;
+
+}
+
+.SingleImageClick{
+  display: grid;
+  /* display: flex; */
+  gap: 40px;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 194px));
+ justify-content: center;
+}
+
+@media (width<1177px){
+  .singleContainer{
+    display: flex;
+    flex-wrap: wrap;
+  }
+}

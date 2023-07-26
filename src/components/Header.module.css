@@ -1,0 +1,35 @@
+.header {
+  height: 100vh;
+
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  background-image: url("./DSC_1513.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: "Heebo", sans-serif;
+}
+
+.entername {
+  display: grid;
+  place-items: center;
+  padding-top: 185px;
+}
+.head {
+  margin-left: 40%;
+  color: rgba(255, 255, 255, 0.772);
+  font-size: 70px;
+  margin-bottom: 20px;
+}
+.button {
+  border: none;
+  font-size: 27px;
+  padding: 20px 34px;
+  border-radius: 20px;
+  background: linear-gradient(to right, rgb(255, 239, 186), rgb(255, 255, 255));
+  color: purple;
+}
+.welcome {
+  font-size: 70px;
+  color: rgba(255, 255, 255, 0.772);
+}
