@@ -1,11 +1,7 @@
 .bg-image{
-  /* min-height: 850px; */
-  background:linear-gradient(rgba(56, 56, 56, 0.821),rgba(59, 4, 68, 0.78)),  url('./gaussian.jpg');
+  background:linear-gradient(rgba(56, 56, 56, 0.821),rgba(59, 4, 68, 0.78)),  url('https://firebasestorage.googleapis.com/v0/b/my-portfolio-1e271.appspot.com/o/Profile%20images%2Fgaussian.jpg?alt=media&token=5f00faac-3951-4825-bf42-5fbc79ae5611');
   background-size: cover;
-/* (rgba(15,23,43,.9),rgba(15,23,43,.9)) */
-  /* background-repeat : no-repeat; */
   width: 100%;
-  /* height: 300vh; */
 background-position: center ;
 
 
