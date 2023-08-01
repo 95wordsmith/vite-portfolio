@@ -1,7 +1,7 @@
 import React from "react";
-import '/favicon.ico'; 
-import '../public/favicon.ico'; 
-import '../public/vite.svg'
+
+import './asset/favicon.ico'
+import './asset/vite.svg'
 import "./App.css";
 import Home from "./pages/Home";
 import Portfolio from "./pages/Portfolio";

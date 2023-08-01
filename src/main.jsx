@@ -3,8 +3,9 @@ import ReactDOM from "react-dom/client";
 import App from "./App.jsx";
 import "./index.css";
 import { BrowserRouter } from "react-router-dom";
-import '../public/favicon.ico'; 
-import '../public/vite.svg'
+import './asset/favicon.ico'
+import './asset/vite.svg'
+
 
 
 ReactDOM.createRoot(document.getElementById("root")).render(
